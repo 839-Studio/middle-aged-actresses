@@ -1,0 +1,471 @@
+actor,name,year,variable,type,BirthYear,gender,age
+阿尔·帕西诺,天使在美国 Angels in America,2003,actor1,drama,1940,男,63
+阿丽克西斯·布莱德尔,吉尔莫女孩 第一季 Gilmore Girls Season 1,2000,actor1,drama,1981,女,19
+阿丽克西斯·布莱德尔,使女的故事 第一季 The Handmaid's Tale Season 1,2017,actor4,drama,1981,女,36
+阿芮尔·温特,摩登家庭 第一季 Modern Family Season 1,2009,actor1,drama,1998,女,11
+埃迪·法可,黑道家族 第一季 The Sopranos Season 1,1999,actor3,drama,1963,女,36
+埃文·蕾切尔·伍德,西部世界 第一季 Westworld Season 1,2016,actor1,drama,1987,女,29
+埃文·蕾切尔·伍德,西部世界 第二季 Westworld Season 2,2018,actor1,drama,1987,女,31
+艾德·奥尼尔,摩登家庭 第一季 Modern Family Season 1,2009,actor2,drama,1946,男,63
+艾德·哈里斯,西部世界 第一季 Westworld Season 1,2016,actor3,drama,1950,男,66
+艾利克斯·布诺斯町,了不起的麦瑟尔夫人 第一季 The Marvelous Mrs. Maisel Season 1,2017,actor2,drama,1971,女,46
+艾莉森·托尔曼,冰血暴 第一季 Fargo Season 1,2014,actor2,drama,1981,女,33
+艾伦·旁派,实习医生格蕾 第一季 Grey's Anatomy Season 1,2005,actor1,drama,1969,女,36
+艾米·阿克,天赋异禀 第二季 The Gifted Season 2,2018,actor1,drama,1976,女,42
+艾米·阿克,天赋异禀 第一季 The Gifted Season 1,2017,actor2,drama,1976,女,41
+艾米莉·莫迪默,新闻编辑室 第一季 The Newsroom Season 1,2012,actor2,drama,1971,女,41
+艾米莉亚·克拉克,权力的游戏  第二季 Game of Thrones Season 2,2012,actor2,drama,1986,女,26
+艾米莉亚·克拉克,权力的游戏 第三季 Game of Thrones Season 3,2013,actor2,drama,1986,女,27
+艾米莉亚·克拉克,权力的游戏 第六季 Game of Thrones Season 6,2016,actor2,drama,1986,女,30
+艾米莉亚·克拉克,权力的游戏 第四季 Game of Thrones Season 4,2014,actor4,drama,1986,女,28
+艾米莉亚·克拉克,权力的游戏 第五季 Game of Thrones Season 5,2015,actor1,drama,1986,女,29
+艾米莉亚·克拉克,权力的游戏 第七季 Game of Thrones Season 7,2017,actor1,drama,1986,女,31
+爱琳·丹尼尔斯,拉字至上  第一季 The L Word Season 1,2004,actor2,drama,1972,女,32
+安东尼·霍普金斯,西部世界 第一季 Westworld Season 1,2016,actor2,drama,1937,男,79
+安娜·托芙,危机边缘 第一季 Fringe Season 1,2008,actor1,drama,1979,女,29
+保罗·韦斯利,吸血鬼日记 第一季 The Vampire Diaries Season 1,2009,actor2,drama,1982,男,27
+保罗·韦斯利,吸血鬼日记  第二季 The Vampire Diaries Season 2,2010,actor2,drama,1982,男,28
+鲍勃·奥登科克,风骚律师 第一季 Better Call Saul Season 1,2015,actor1,drama,1962,男,53
+鲍勃·奥登科克,风骚律师 第四季 Better Call Saul Season 4,2018,actor1,drama,1962,男,56
+贝丝·比厄,破产姐妹 第一季 2 Broke Girls Season 1,2011,actor2,drama,1985,女,26
+贝丝·比厄,破产姐妹 第三季 2 Broke Girls Season 3,2013,actor2,drama,1985,女,28
+贝丝·比厄,破产姐妹 第二季 2 Broke Girls Season 2,2012,actor2,drama,1985,女,27
+比尔·帕特森,锦绣佳人 Wives and Daughters,1999,actor2,drama,1945,男,54
+比利·鲍伯·松顿,冰血暴 第一季 Fargo Season 1,2014,actor1,drama,1955,男,59
+彼得·克劳斯,六尺之下 第一季 Six Feet Under Season 1,2001,actor1,drama,1965,男,36
+彼特·丁拉基,权力的游戏 第七季 Game of Thrones Season 7,2017,actor3,drama,1969,男,48
+彼特·丁拉基,权力的游戏 第六季 Game of Thrones Season 6,2016,actor5,drama,1969,男,47
+彼特·丁拉基,权力的游戏 第四季 Game of Thrones Season 4,2014,actor1,drama,1969,男,45
+彼特·丁拉基,权力的游戏 第五季 Game of Thrones Season 5,2015,actor2,drama,1969,男,46
+波西亚·德·罗西,发展受阻 第一季 Arrested Development Season 1,2003,actor2,drama,1973,女,30
+波伊德·霍布鲁克,毒枭 第一季 Narcos Season 1,2015,actor4,drama,1981,男,34
+布莱恩·科兰斯顿,绝命毒师  第三季 Breaking Bad Season 3,2010,actor1,drama,1956,男,54
+布莱恩·科兰斯顿,绝命毒师  第五季 Breaking Bad Season 5,2012,actor1,drama,1956,男,56
+布莱恩·科兰斯顿,绝命毒师 第一季 Breaking Bad Season 1,2008,actor1,drama,1956,男,52
+布蕾克·莱弗利,绯闻女孩 第一季 Gossip Girl Season 1,2007,actor1,drama,1987,女,20
+布蕾克·莱弗利,绯闻女孩  第二季 Gossip Girl Season 2,2008,actor1,drama,1987,女,21
+查尔斯·丹斯,权力的游戏 第一季 Game of Thrones Season 1,2011,actor2,drama,1946,男,65
+查理·辛,好汉两个半  第一季 Two and a Half Men Season 1,2003,actor1,drama,1965,男,38
+大卫·哈伯,怪奇物语 第一季 Stranger Things Season 1,2016,actor2,drama,1975,男,41
+戴米恩·路易斯,兄弟连 Band of Brothers,2001,actor1,drama,1971,男,30
+迪伦·麦克德莫特,美国恐怖故事：谋杀屋 第一季 American Horror Story: Murder House Season 1,2011,actor2,drama,1961,男,50
+蒂姆·罗斯,千谎百计 第一季 Lie to Me Season 1,2009,actor1,drama,1961,男,48
+多米尼克·珀塞尔,越狱  第四季 Prison Break Season 4,2008,actor2,drama,1970,男,38
+多米尼克·珀塞尔,越狱 第一季 Prison Break Season 1,2005,actor2,drama,1970,男,35
+多米尼克·珀塞尔,越狱  第二季 Prison Break Season 2,2006,actor2,drama,1970,男,36
+多米尼克·珀塞尔,越狱  第三季 Prison Break Season 3,2007,actor2,drama,1970,男,37
+多米尼克·威斯特,火线 第一季 The Wire Season 1,2002,actor1,drama,1969,男,33
+菲丽西提·霍夫曼,绝望主妇 第一季 Desperate Housewives Season 1,2004,actor2,drama,1962,女,42
+菲丽西提·霍夫曼,绝望主妇 第三季 Desperate Housewives Season 3,2006,actor2,drama,1962,女,44
+弗兰西丝卡·安妮丝,锦绣佳人 Wives and Daughters,1999,actor3,drama,1944,女,55
+弗兰西斯·麦克多蒙德,奥丽芙·基特里奇 Olive Kitteridge,2014,actor1,drama,1957,女,57
+葛尔·哈罗德,同志亦凡人 第一季 Queer as Folk Season 1,2000,actor2,drama,1969,男,31
+葛尔·哈罗德,同志亦凡人 第二季 Queer as Folk Season 2,2002,actor1,drama,1969,男,33
+古古·姆巴塔-劳,黑镜 第三季 Black Mirror Season 3,2016,actor1,drama,1983,女,33
+哈尔·斯帕克斯,同志亦凡人 第二季 Queer as Folk Season 2,2002,actor3,drama,1969,男,33
+哈尔·斯帕克斯,同志亦凡人 第一季 Queer as Folk Season 1,2000,actor1,drama,1969,男,31
+海顿·潘妮蒂尔,英雄 第一季 Heroes Season 1,2006,actor2,drama,1989,女,17
+豪尔赫·加西亚,迷失 第一季 Lost Season 1,2004,actor2,drama,1973,男,31
+基弗·萨瑟兰,24小时  第一季 24 Season 1,2001,actor1,drama,1966,男,35
+基特·哈灵顿,权力的游戏 第四季 Game of Thrones Season 4,2014,actor5,drama,1986,男,28
+基特·哈灵顿,权力的游戏 第七季 Game of Thrones Season 7,2017,actor2,drama,1986,男,31
+基特·哈灵顿,权力的游戏 第五季 Game of Thrones Season 5,2015,actor3,drama,1986,男,29
+吉姆·卡维泽,疑犯追踪  第一季 Person of Interest Season 1,2011,actor2,drama,1968,男,43
+吉姆·帕森斯,生活大爆炸 第六季 The Big Bang Theory Season 6,2012,actor2,drama,1973,男,39
+吉姆·帕森斯,生活大爆炸  第一季 The Big Bang Theory Season 1,2007,actor1,drama,1973,男,34
+吉姆·帕森斯,生活大爆炸  第三季 The Big Bang Theory Season 3,2009,actor2,drama,1973,男,36
+吉姆·帕森斯,生活大爆炸 第十二季 The Big Bang Theory Season 12,2018,actor1,drama,1973,男,45
+吉姆·帕森斯,生活大爆炸  第五季 The Big Bang Theory Season 5,2011,actor2,drama,1973,男,38
+吉姆·帕森斯,生活大爆炸  第二季 The Big Bang Theory Season 2,2008,actor1,drama,1973,男,35
+吉姆·帕森斯,生活大爆炸 第七季 The Big Bang Theory Season 7,2013,actor2,drama,1973,男,40
+吉姆·帕森斯,生活大爆炸  第四季 The Big Bang Theory Season 4,2010,actor2,drama,1973,男,37
+吉娜·托瑞斯,萤火虫 Firefly,2002,actor2,drama,1969,女,33
+贾斯蒂恩·瓦戴尔,锦绣佳人 Wives and Daughters,1999,actor1,drama,1976,女,23
+杰夫·丹尼尔斯,新闻编辑室 第一季 The Newsroom Season 1,2012,actor1,drama,1955,男,57
+杰克·科尔曼,英雄 第一季 Heroes Season 1,2006,actor1,drama,1958,男,48
+杰米·克莱顿,超感猎杀 第一季 Sense8 Season 1,2015,actor2,drama,1978,女,37
+杰森·贝特曼,发展受阻 第一季 Arrested Development Season 1,2003,actor1,drama,1969,男,34
+杰森·席格尔,怪胎与书呆 Freaks and Geeks,1999,actor5,drama,1980,男,19
+杰森·席格尔,老爸老妈的浪漫史 第二季 How I Met Your Mother Season 2,2006,actor5,drama,1980,男,26
+杰森·席格尔,老爸老妈的浪漫史 第一季 How I Met Your Mother Season 1,2005,actor2,drama,1980,男,25
+杰西·普莱蒙,黑镜 第四季 Black Mirror Season 4,2017,actor1,drama,1988,男,29
+杰西卡·布朗·芬德利,名姝 第二季 Harlots Season 2,2018,actor2,drama,1989,女,29
+金·凯特罗尔,欲望都市  第二季 Sex and the City Season 2,1999,actor2,drama,1956,女,43
+金·凯特罗尔,欲望都市 第六季 Sex and the City Season 6,2003,actor2,drama,1956,女,47
+金·凯特罗尔,欲望都市 第三季 Sex and the City Season 3,2000,actor2,drama,1956,女,44
+金·凯特罗尔,欲望都市 第四季 Sex and the City Season 4,2001,actor2,drama,1956,女,45
+金·凯特罗尔,欲望都市  第五季 Sex and the City Season 5,2002,actor2,drama,1956,女,46
+卡洛斯·博纳德,24小时  第一季 24 Season 1,2001,actor2,drama,1962,男,39
+凯利·威廉姆斯,千谎百计 第一季 Lie to Me Season 1,2009,actor2,drama,1970,女,39
+凯莉·麦克唐纳,大西洋帝国 第一季 Boardwalk Empire Season 1,2010,actor2,drama,1976,女,34
+凯莉·麦克唐纳,黑镜 第三季 Black Mirror Season 3,2016,actor4,drama,1976,女,40
+凯特·戴琳斯,破产姐妹 第二季 2 Broke Girls Season 2,2012,actor1,drama,1986,女,26
+凯特·戴琳斯,破产姐妹 第一季 2 Broke Girls Season 1,2011,actor1,drama,1986,女,25
+凯特·戴琳斯,破产姐妹 第三季 2 Broke Girls Season 3,2013,actor1,drama,1986,女,27
+凯特·玛拉,纸牌屋 第一季 House of Cards Season 1,2013,actor3,drama,1983,女,30
+凯特·玛拉,纸牌屋 第二季 House of Cards Season 2,2014,actor3,drama,1983,女,31
+凯文·麦克基德,罗马 第一季 Rome Season 1,2005,actor1,drama,1973,男,32
+凯文·史派西,纸牌屋 第一季 House of Cards Season 1,2013,actor1,drama,1959,男,54
+凯文·史派西,纸牌屋 第三季 House of Cards Season 3,2015,actor1,drama,1959,男,56
+凯文·史派西,纸牌屋 第二季 House of Cards Season 2,2014,actor1,drama,1959,男,55
+康妮·布里登,美国恐怖故事：谋杀屋 第一季 American Horror Story: Murder House Season 1,2011,actor1,drama,1967,女,44
+柯特妮·考克斯,老友记 第十季 Friends Season 10,2003,actor2,drama,1964,女,39
+柯特妮·考克斯,老友记  第六季 Friends Season 6,1999,actor2,drama,1964,女,35
+柯特妮·考克斯,老友记  第八季 Friends Season 8,2001,actor2,drama,1964,女,37
+柯特妮·考克斯,老友记  第九季 Friends Season 9,2002,actor2,drama,1964,女,38
+柯特妮·考克斯,老友记  第七季 Friends Season 7,2000,actor2,drama,1964,女,36
+科比·贝尔,天赋异禀 第二季 The Gifted Season 2,2018,actor2,drama,1975,男,43
+克里斯汀·戴维斯,欲望都市 第三季 Sex and the City Season 3,2000,actor3,drama,1965,女,35
+克里斯汀·戴维斯,欲望都市 第六季 Sex and the City Season 6,2003,actor3,drama,1965,女,38
+克里斯汀·戴维斯,欲望都市 第四季 Sex and the City Season 4,2001,actor3,drama,1965,女,36
+克里斯汀·戴维斯,欲望都市  第五季 Sex and the City Season 5,2002,actor3,drama,1965,女,37
+克里斯汀·戴维斯,欲望都市  第二季 Sex and the City Season 2,1999,actor3,drama,1965,女,34
+克里斯汀·米利欧缇,黑镜 第四季 Black Mirror Season 4,2017,actor2,drama,1985,女,32
+兰迪·哈里森,同志亦凡人 第二季 Queer as Folk Season 2,2002,actor2,drama,1977,男,25
+兰迪·哈里森,同志亦凡人 第一季 Queer as Folk Season 1,2000,actor3,drama,1977,男,23
+劳拉·格劳蒂尼,犯罪心理 第二季 Criminal Minds Season 2,2006,actor2,drama,1971,女,35
+劳拉·格劳蒂尼,犯罪心理 第一季 Criminal Minds Season 1,2005,actor3,drama,1971,女,34
+劳伦·格拉汉姆,吉尔莫女孩 第一季 Gilmore Girls Season 1,2000,actor2,drama,1967,女,33
+雷·史蒂文森,罗马 第一季 Rome Season 1,2005,actor2,drama,1964,男,41
+雷内·奥博诺伊斯,波士顿法律 第一季 Boston Legal Season 1,2004,actor1,drama,1940,男,64
+蕾亚·塞洪,风骚律师 第四季 Better Call Saul Season 4,2018,actor3,drama,1972,女,46
+蕾亚·塞洪,风骚律师 第一季 Better Call Saul Season 1,2015,actor2,drama,1972,女,43
+李美琪,妮基塔 第一季 Nikita Season 1,2010,actor1,drama,1979,女,31
+理查德·詹金斯,奥丽芙·基特里奇 Olive Kitteridge,2014,actor2,drama,1947,男,67
+丽莎·艾德尔斯汀,豪斯医生 第一季 House M.D. Season 1,2004,actor2,drama,1966,女,38
+丽莎·库卓,老友记  第九季 Friends Season 9,2002,actor3,drama,1963,女,39
+丽莎·库卓,老友记 第十季 Friends Season 10,2003,actor3,drama,1963,女,40
+丽莎·库卓,老友记  第六季 Friends Season 6,1999,actor3,drama,1963,女,36
+丽莎·库卓,老友记  第七季 Friends Season 7,2000,actor3,drama,1963,女,37
+丽莎·库卓,老友记  第八季 Friends Season 8,2001,actor3,drama,1963,女,38
+莉顿·梅斯特,绯闻女孩 第一季 Gossip Girl Season 1,2007,actor2,drama,1986,女,21
+莉顿·梅斯特,绯闻女孩  第二季 Gossip Girl Season 2,2008,actor2,drama,1986,女,22
+琳达·卡德里尼,怪胎与书呆 Freaks and Geeks,1999,actor1,drama,1975,女,24
+琳德西·冯塞卡,妮基塔 第一季 Nikita Season 1,2010,actor2,drama,1987,女,23
+罗宾·怀特,纸牌屋 第一季 House of Cards Season 1,2013,actor2,drama,1966,女,47
+罗宾·怀特,纸牌屋 第三季 House of Cards Season 3,2015,actor2,drama,1966,女,49
+罗宾·怀特,纸牌屋 第二季 House of Cards Season 2,2014,actor2,drama,1966,女,48
+洛南·布雷科,黑道家族 第一季 The Sopranos Season 1,1999,actor2,drama,1954,女,45
+马克·瓦雷,波士顿法律 第一季 Boston Legal Season 1,2004,actor2,drama,1964,男,40
+马特·勒布朗,老友记  第八季 Friends Season 8,2001,actor4,drama,1967,男,34
+马特·勒布朗,老友记  第六季 Friends Season 6,1999,actor4,drama,1967,男,32
+马特·勒布朗,老友记  第九季 Friends Season 9,2002,actor4,drama,1967,男,35
+马特·勒布朗,老友记 第十季 Friends Season 10,2003,actor4,drama,1967,男,36
+马特·勒布朗,老友记  第七季 Friends Season 7,2000,actor4,drama,1967,男,33
+马修·福克斯,迷失 第一季 Lost Season 1,2004,actor1,drama,1966,男,38
+马修·格雷·古柏勒,犯罪心理 第一季 Criminal Minds Season 1,2005,actor5,drama,1980,男,25
+马修·麦康纳,真探 第一季 True Detective Season 1,2014,actor1,drama,1969,男,45
+玛格·海尔金伯格,犯罪现场调查 第一季 CSI: Crime Scene Investigation Season 1,2000,actor2,drama,1958,女,42
+玛西亚·克劳斯,绝望主妇 第一季 Desperate Housewives Season 1,2004,actor1,drama,1962,女,42
+玛西亚·克劳斯,绝望主妇 第三季 Desperate Housewives Season 3,2006,actor3,drama,1962,女,44
+迈克尔·C·豪尔,六尺之下 第一季 Six Feet Under Season 1,2001,actor2,drama,1971,男,30
+迈克尔·爱默生,疑犯追踪  第一季 Person of Interest Season 1,2011,actor1,drama,1954,男,57
+迈克尔·珊农,大西洋帝国 第一季 Boardwalk Empire Season 1,2010,actor5,drama,1974,男,36
+麦肯兹·戴维斯,黑镜 第三季 Black Mirror Season 3,2016,actor2,drama,1987,女,29
+麦茜·威廉姆斯,权力的游戏  第二季 Game of Thrones Season 2,2012,actor1,drama,1997,女,15
+麦茜·威廉姆斯,权力的游戏 第三季 Game of Thrones Season 3,2013,actor1,drama,1997,女,16
+麦茜·威廉姆斯,权力的游戏 第七季 Game of Thrones Season 7,2017,actor5,drama,1997,女,20
+麦茜·威廉姆斯,权力的游戏 第六季 Game of Thrones Season 6,2016,actor1,drama,1997,女,19
+麦斯·米科尔森,汉尼拔 第一季 Hannibal Season 1,2013,actor2,drama,1965,男,48
+曼迪·摩尔,我们这一天 第一季 This Is Us Season 1,2016,actor1,drama,1984,女,32
+曼迪·帕廷金,犯罪心理 第一季 Criminal Minds Season 1,2005,actor1,drama,1952,男,53
+曼迪·帕廷金,犯罪心理 第一季 Criminal Minds Season 1,2005,actor1,drama,1952,男,53
+梅丽尔·斯特里普,天使在美国 Angels in America,2003,actor2,drama,1949,女,54
+米格尔·安赫尔·西尔维斯特,超感猎杀 第一季 Sense8 Season 1,2015,actor1,drama,1982,男,33
+米洛·文堤米利亚,我们这一天 第一季 This Is Us Season 1,2016,actor2,drama,1977,男,39
+米洛·文堤米利亚,英雄 第一季 Heroes Season 1,2006,actor4,drama,1977,男,29
+内森·菲利安,萤火虫 Firefly,2002,actor1,drama,1971,男,31
+妮娜·杜波夫,吸血鬼日记 第一季 The Vampire Diaries Season 1,2009,actor1,drama,1989,女,20
+妮娜·杜波夫,吸血鬼日记  第二季 The Vampire Diaries Season 2,2010,actor1,drama,1989,女,21
+尼尔·帕特里克·哈里斯,老爸老妈的浪漫史 第二季 How I Met Your Mother Season 2,2006,actor2,drama,1973,男,33
+尼尔·帕特里克·哈里斯,老爸老妈的浪漫史 第一季 How I Met Your Mother Season 1,2005,actor4,drama,1973,男,32
+尼古拉·科斯特-瓦尔道,权力的游戏 第五季 Game of Thrones Season 5,2015,actor5,drama,1970,男,45
+尼古拉·科斯特-瓦尔道,权力的游戏 第四季 Game of Thrones Season 4,2014,actor2,drama,1970,男,44
+乔安娜 克里斯蒂,毒枭 第一季 Narcos Season 1,2015,actor2,drama,1982,女,33
+乔恩·哈姆,广告狂人 第一季 Mad Men Season 1,2007,actor1,drama,1971,男,36
+乔恩·克莱尔,好汉两个半  第一季 Two and a Half Men Season 1,2003,actor2,drama,1965,男,38
+乔纳森·班克斯,风骚律师 第四季 Better Call Saul Season 4,2018,actor2,drama,1947,男,71
+乔纳森·班克斯,风骚律师 第一季 Better Call Saul Season 1,2015,actor3,drama,1947,男,68
+乔纳森·莱斯·梅耶斯,都铎王朝 第一季 The Tudors Season 1,2007,actor1,drama,1977,男,30
+乔什·哈洛威,迷失 第一季 Lost Season 1,2004,actor4,drama,1969,男,35
+乔什·拉德诺,老爸老妈的浪漫史 第二季 How I Met Your Mother Season 2,2006,actor1,drama,1974,男,32
+乔什·拉德诺,老爸老妈的浪漫史 第一季 How I Met Your Mother Season 1,2005,actor1,drama,1974,男,31
+乔西·查尔斯,傲骨贤妻 第一季 The Good Wife Season 1,2009,actor2,drama,1971,男,38
+瑞秋·布罗斯纳安,纸牌屋 第三季 House of Cards Season 3,2015,actor5,drama,1990,女,25
+瑞秋·布罗斯纳安,了不起的麦瑟尔夫人 第一季 The Marvelous Mrs. Maisel Season 1,2017,actor1,drama,1990,女,27
+萨曼莎·莫顿,名姝 第二季 Harlots Season 2,2018,actor1,drama,1977,女,41
+莎拉·杰茜卡·帕克,欲望都市 第四季 Sex and the City Season 4,2001,actor1,drama,1965,女,36
+莎拉·杰茜卡·帕克,欲望都市  第五季 Sex and the City Season 5,2002,actor1,drama,1965,女,37
+莎拉·杰茜卡·帕克,欲望都市 第六季 Sex and the City Season 6,2003,actor1,drama,1965,女,38
+莎拉·杰茜卡·帕克,欲望都市  第二季 Sex and the City Season 2,1999,actor1,drama,1965,女,34
+莎拉·杰茜卡·帕克,欲望都市 第三季 Sex and the City Season 3,2000,actor1,drama,1965,女,35
+山姆·尼尔,都铎王朝 第一季 The Tudors Season 1,2007,actor2,drama,1947,男,60
+史蒂芬·莫耶,天赋异禀 第一季 The Gifted Season 1,2017,actor1,drama,1969,男,48
+史蒂夫·布西密,大西洋帝国 第一季 Boardwalk Empire Season 1,2010,actor1,drama,1957,男,53
+泰瑞·海切尔,绝望主妇 第三季 Desperate Housewives Season 3,2006,actor1,drama,1964,女,42
+坦迪·牛顿,西部世界 第二季 Westworld Season 2,2018,actor2,drama,1972,女,46
+坦迪·牛顿,西部世界 第一季 Westworld Season 1,2016,actor4,drama,1972,女,44
+唐尼·沃尔伯格,兄弟连 Band of Brothers,2001,actor2,drama,1969,男,32
+托马斯·吉布森,犯罪心理 第一季 Criminal Minds Season 1,2005,actor2,drama,1962,男,43
+托马斯·吉布森,犯罪心理 第二季 Criminal Minds Season 2,2006,actor4,drama,1962,男,44
+瓦格纳·马拉,毒枭 第一季 Narcos Season 1,2015,actor1,drama,1976,男,39
+威廉姆·皮特森,犯罪现场调查 第一季 CSI: Crime Scene Investigation Season 1,2000,actor1,drama,1953,男,47
+薇诺娜·瑞德,怪奇物语 第一季 Stranger Things Season 1,2016,actor1,drama,1971,女,45
+温特沃斯·米勒,越狱  第二季 Prison Break Season 2,2006,actor1,drama,1972,男,34
+温特沃斯·米勒,越狱  第四季 Prison Break Season 4,2008,actor1,drama,1972,男,36
+温特沃斯·米勒,越狱  第三季 Prison Break Season 3,2007,actor1,drama,1972,男,35
+温特沃斯·米勒,越狱 第一季 Prison Break Season 1,2005,actor1,drama,1972,男,33
+吴珊卓,实习医生格蕾 第一季 Grey's Anatomy Season 1,2005,actor2,drama,1971,女,34
+伍迪·哈里森,真探 第一季 True Detective Season 1,2014,actor2,drama,1961,男,53
+辛西娅·尼克松,欲望都市 第三季 Sex and the City Season 3,2000,actor4,drama,1966,女,34
+辛西娅·尼克松,欲望都市  第二季 Sex and the City Season 2,1999,actor4,drama,1966,女,33
+辛西娅·尼克松,欲望都市 第六季 Sex and the City Season 6,2003,actor4,drama,1966,女,37
+辛西娅·尼克松,欲望都市  第五季 Sex and the City Season 5,2002,actor4,drama,1966,女,36
+辛西娅·尼克松,欲望都市 第四季 Sex and the City Season 4,2001,actor4,drama,1966,女,35
+休·丹西,汉尼拔 第一季 Hannibal Season 1,2013,actor1,drama,1975,男,38
+休·劳瑞,豪斯医生 第一季 House M.D. Season 1,2004,actor1,drama,1959,男,45
+亚伦·保尔,绝命毒师 第一季 Breaking Bad Season 1,2008,actor2,drama,1979,男,29
+亚伦·保尔,绝命毒师  第五季 Breaking Bad Season 5,2012,actor2,drama,1979,男,33
+亚伦·保尔,绝命毒师  第三季 Breaking Bad Season 3,2010,actor2,drama,1979,男,31
+伊德里斯·艾尔巴,火线 第一季 The Wire Season 1,2002,actor3,drama,1972,男,30
+伊丽莎白·莫斯,广告狂人 第一季 Mad Men Season 1,2007,actor2,drama,1982,女,25
+伊丽莎白·莫斯,使女的故事 第一季 The Handmaid's Tale Season 1,2017,actor1,drama,1982,女,35
+伊萨克·亨普斯特德-怀特,权力的游戏 第六季 Game of Thrones Season 6,2016,actor3,drama,1999,男,17
+伊萨克·亨普斯特德-怀特,权力的游戏  第二季 Game of Thrones Season 2,2012,actor4,drama,1999,男,13
+伊萨克·亨普斯特德-怀特,权力的游戏 第一季 Game of Thrones Season 1,2011,actor1,drama,1999,男,12
+伊萨克·亨普斯特德-怀特,权力的游戏 第三季 Game of Thrones Season 3,2013,actor4,drama,1999,男,14
+伊万杰琳·莉莉,迷失 第一季 Lost Season 1,2004,actor5,drama,1979,女,25
+约翰·道曼,火线 第一季 The Wire Season 1,2002,actor2,drama,1945,男,57
+约翰·弗朗西斯·戴利,怪胎与书呆 Freaks and Geeks,1999,actor2,drama,1985,男,14
+约翰·诺贝尔,危机边缘 第一季 Fringe Season 1,2008,actor2,drama,1948,男,60
+约翰尼·盖尔克奇,生活大爆炸  第四季 The Big Bang Theory Season 4,2010,actor1,drama,1975,男,35
+约翰尼·盖尔克奇,生活大爆炸 第七季 The Big Bang Theory Season 7,2013,actor1,drama,1975,男,38
+约翰尼·盖尔克奇,生活大爆炸  第一季 The Big Bang Theory Season 1,2007,actor2,drama,1975,男,32
+约翰尼·盖尔克奇,生活大爆炸  第二季 The Big Bang Theory Season 2,2008,actor2,drama,1975,男,33
+约翰尼·盖尔克奇,生活大爆炸  第五季 The Big Bang Theory Season 5,2011,actor1,drama,1975,男,36
+约翰尼·盖尔克奇,生活大爆炸 第六季 The Big Bang Theory Season 6,2012,actor1,drama,1975,男,37
+约翰尼·盖尔克奇,生活大爆炸 第十二季 The Big Bang Theory Season 12,2018,actor2,drama,1975,男,43
+约翰尼·盖尔克奇,生活大爆炸  第三季 The Big Bang Theory Season 3,2009,actor1,drama,1975,男,34
+约瑟夫·费因斯,使女的故事 第一季 The Handmaid's Tale Season 1,2017,actor2,drama,1970,男,47
+詹姆斯·弗兰科,怪胎与书呆 Freaks and Geeks,1999,actor3,drama,1978,男,21
+詹姆斯·甘多菲尼,黑道家族 第一季 The Sopranos Season 1,1999,actor1,drama,1961,男,38
+詹姆斯·麦斯登,西部世界 第二季 Westworld Season 2,2018,actor3,drama,1973,男,45
+詹妮弗·安妮斯顿,老友记  第六季 Friends Season 6,1999,actor1,drama,1969,女,30
+詹妮弗·安妮斯顿,老友记  第九季 Friends Season 9,2002,actor1,drama,1969,女,33
+詹妮弗·安妮斯顿,老友记  第八季 Friends Season 8,2001,actor1,drama,1969,女,32
+詹妮弗·安妮斯顿,老友记  第七季 Friends Season 7,2000,actor1,drama,1969,女,31
+詹妮弗·安妮斯顿,老友记 第十季 Friends Season 10,2003,actor1,drama,1969,女,34
+詹妮弗·比尔斯,拉字至上  第一季 The L Word Season 1,2004,actor1,drama,1963,女,41
+朱丽安娜· 玛格丽丝,傲骨贤妻 第一季 The Good Wife Season 1,2009,actor1,drama,1966,女,43
+C·J·威尔逊,海边的曼彻斯特 Manchester by the Sea,2016,actor4,movie,NA,男,NA
+阿丽西丝·索普,这个男人来自地球 The Man from Earth,2007,actor5,movie,1980,女,27
+埃迪·雷德梅恩,悲惨世界 Les Misérables,2012,actor5,movie,1982,男,30
+艾比·考尼什,"三块广告牌 Three Billboards Outside Ebbing, Missouri",2017,actor4,movie,1982,女,35
+艾德·哈里斯,地心引力 Gravity,2013,actor3,movie,1950,男,63
+艾德·哈里斯,美丽心灵 A Beautiful Mind,2001,actor2,movie,1950,男,51
+艾德里安·布洛迪,超脱 Detachment,2011,actor1,movie,1973,男,38
+艾德里安·布洛迪,布达佩斯大饭店 The Grand Budapest Hotel,2014,actor3,movie,1973,男,41
+艾伦·里奇,模仿游戏 The Imitation Game,2014,actor5,movie,1981,男,33
+艾米·亚当斯,猫鼠游戏 Catch Me If You Can,2002,actor5,movie,1974,女,28
+艾米·亚当斯,她 Her,2013,actor3,movie,1974,女,39
+艾瑞克·阿瓦利,忠犬八公的故事 Hachi: A Dog's Tale,2009,actor5,movie,1952,男,57
+安娜·德·阿玛斯,银翼杀手2049 Blade Runner 2049,2017,actor3,movie,1988,女,29
+安妮·海瑟薇,穿普拉达的女王 The Devil Wears Prada,2006,actor1,movie,1982,女,24
+安妮·海瑟薇,一天 One Day,2011,actor1,movie,1982,女,29
+安妮·海瑟薇,星际穿越 Interstellar,2014,actor2,movie,1982,女,32
+安妮·海瑟薇,断背山 Brokeback Mountain,2005,actor4,movie,1982,女,23
+安妮·海瑟薇,悲惨世界 Les Misérables,2012,actor3,movie,1982,女,30
+安妮·海瑟薇,蝙蝠侠：黑暗骑士崛起 The Dark Knight Rises,2012,actor3,movie,1982,女,30
+安妮·海瑟薇,公主日记 The Princess Diaries,2001,actor1,movie,1982,女,19
+奥克塔维亚·斯宾瑟,水形物语 The Shape of Water,2017,actor5,movie,1972,女,45
+奥兰多·布鲁姆,指环王2：双塔奇兵 The Lord of the Rings: The Two Towers,2002,actor5,movie,1977,男,25
+奥兰多·布鲁姆,加勒比海盗 Pirates of the Caribbean: The Curse of the Black Pearl,2003,actor3,movie,1977,男,26
+奥兰多·布鲁姆,加勒比海盗2：聚魂棺 Pirates of the Caribbean: Dead Man's Chest,2006,actor2,movie,1977,男,29
+奥利维亚·库克,头号玩家 Ready Player One,2018,actor2,movie,1993,女,25
+奥利维亚·王尔德,她 Her,2013,actor5,movie,1984,女,29
+保罗·贝坦尼,美丽心灵 A Beautiful Mind,2001,actor5,movie,1971,男,30
+保罗·路德,蚁人2：黄蜂女现身 Ant-Man and the Wasp,2018,actor1,movie,1969,男,49
+本·门德尔森,头号玩家 Ready Player One,2018,actor3,movie,1969,男,49
+比尔·奈伊,加勒比海盗2：聚魂棺 Pirates of the Caribbean: Dead Man's Chest,2006,actor5,movie,1949,男,57
+波伊德·霍布鲁克,金刚狼3：殊死一战 Logan,2017,actor4,movie,1981,男,36
+布莱德利·库珀,银河护卫队 Guardians of the Galaxy,2014,actor3,movie,1975,男,39
+布莱德利·库珀,他其实没那么喜欢你,2009,actor4,movie,1975,男,34
+布莱恩·H.德里克,荒野生存 Into the Wild,2007,actor5,movie,NA,男,NA
+查理兹·塞隆,速度与激情8 The Fate of the Furious,2017,actor3,movie,1975,女,42
+达芙妮·基恩,金刚狼3：殊死一战 Logan,2017,actor3,movie,2005,女,12
+达拉斯·罗伯特斯,达拉斯买家俱乐部 Dallas Buyers Club,2013,actor5,movie,1970,男,43
+大卫·卡拉丁,杀死比尔 Kill Bill: Vol. 1,2003,actor5,movie,1936,男,67
+戴夫·巴蒂斯塔,银河护卫队 Guardians of the Galaxy,2014,actor5,movie,1969,男,45
+丹尼·格洛弗,2012,2009,actor5,movie,1946,男,63
+丹尼尔·洛巴克,死神来了 Final Destination,2000,actor5,movie,1963,男,37
+迭戈·卢纳,幸福终点站 The Terminal,2004,actor5,movie,1979,男,25
+渡边谦,盗梦空间 Inception,2010,actor5,movie,1959,男,51
+多姆纳尔·格里森,荒野猎人 The Revenant,2015,actor3,movie,1983,男,32
+法尔杜特·夏尔马,地心引力 Gravity,2013,actor5,movie,NA,男,NA
+范·迪塞尔,比利·林恩的中场战事 Billy Lynn's Long Halftime Walk,2016,actor4,movie,1967,男,49
+范·迪塞尔,速度与激情7 Furious 7,2015,actor1,movie,1967,男,48
+范·迪塞尔,速度与激情8 The Fate of the Furious,2017,actor1,movie,1967,男,50
+范·迪塞尔,银河护卫队 Guardians of the Galaxy,2014,actor4,movie,1967,男,47
+芬·维特洛克,爱乐之城 La La Land,2016,actor5,movie,1984,男,32
+弗兰西斯·麦克多蒙德,"三块广告牌 Three Billboards Outside Ebbing, Missouri",2017,actor1,movie,1957,女,60
+福勒斯特·古德勒克,荒野猎人 The Revenant,2015,actor5,movie,1998,男,17
+格洛丽亚·福斯特,黑客帝国 The Matrix,1999,actor5,movie,1933,女,66
+海伦娜·伯翰·卡特,大鱼 Big Fish,2003,actor5,movie,1966,女,37
+海伦娜·伯翰·卡特,搏击俱乐部 Fight Club,1999,actor3,movie,1966,女,33
+海伦娜·伯翰·卡特,查理和巧克力工厂 Charlie and the Chocolate Factory,2005,actor3,movie,1966,女,39
+海伦娜·伯翰·卡特,哈利·波特与死亡圣器(下) Harry Potter and the Deathly Hallows: Part 2,2011,actor4,movie,1966,女,45
+汉娜·乔恩-卡门,蚁人2：黄蜂女现身 Ant-Man and the Wasp,2018,actor4,movie,1989,女,29
+亨利·卡维尔,碟中谍6：全面瓦解 Mission: Impossible - Fallout,2018,actor2,movie,1983,男,35
+杰夫·丹尼尔斯,火星救援 The Martian,2015,actor4,movie,1955,男,60
+杰克·达文波特,加勒比海盗2：聚魂棺 Pirates of the Caribbean: Dead Man's Chest,2006,actor4,movie,1973,男,33
+杰克·达文波特,加勒比海盗 Pirates of the Caribbean: The Curse of the Black Pearl,2003,actor5,movie,1973,男,30
+杰瑞德·莱托,达拉斯买家俱乐部 Dallas Buyers Club,2013,actor3,movie,1971,男,42
+杰瑞德·莱托,梦之安魂曲 Requiem for a Dream,2000,actor2,movie,1971,男,29
+杰瑞德·莱托,战争之王 Lord of War,2005,actor3,movie,1971,男,34
+杰瑞米·雷纳,碟中谍4 Mission: Impossible - Ghost Protocol,2011,actor2,movie,1971,男,40
+杰瑞米·雷纳,复仇者联盟 The Avengers,2012,actor5,movie,1971,男,41
+杰森·斯坦森,速度与激情7 Furious 7,2015,actor3,movie,1967,男,48
+杰森·斯坦森,速度与激情8 The Fate of the Furious,2017,actor4,movie,1967,男,50
+杰森·斯坦森,巨齿鲨 The Meg,2018,actor1,movie,1967,男,51
+杰西卡·查斯坦,火星救援 The Martian,2015,actor2,movie,1977,女,38
+杰西卡·查斯坦,星际穿越 Interstellar,2014,actor3,movie,1977,女,37
+杰伊·桑德斯,后天 The Day After Tomorrow,2004,actor5,movie,1953,男,51
+凯尔·钱德勒,海边的曼彻斯特 Manchester by the Sea,2016,actor5,movie,1965,男,51
+凯丽·华盛顿,被解救的姜戈 Django Unchained,2012,actor5,movie,1977,女,35
+凯丽·华盛顿,史密斯夫妇 Mr. & Mrs. Smith,2005,actor5,movie,1977,女,28
+凯特·玛拉,断背山 Brokeback Mountain,2005,actor5,movie,1983,女,22
+凯文·史派西,美国丽人 American Beauty,1999,actor1,movie,1959,男,40
+克里·杜瓦尔,致命ID Identity,2003,actor5,movie,1977,女,26
+克里夫·罗伯逊,蜘蛛侠 Spider-Man,2002,actor5,movie,1923,男,79
+克里斯·埃文斯,复仇者联盟3：无限战争 Avengers: Infinity War,2018,actor3,movie,1981,男,37
+克里斯·埃文斯,复仇者联盟 The Avengers,2012,actor2,movie,1981,男,31
+克里斯·埃文斯,复仇者联盟2：奥创纪元 Avengers: Age of Ultron,2015,actor4,movie,1981,男,34
+克里斯汀·斯图尔特,暮光之城 Twilight,2008,actor1,movie,1990,女,18
+克里斯汀·斯图尔特,比利·林恩的中场战事 Billy Lynn's Long Halftime Walk,2016,actor3,movie,1990,女,26
+克里斯汀·韦格,火星救援 The Martian,2015,actor3,movie,1973,女,42
+克里斯托弗·麦克唐纳,梦之安魂曲 Requiem for a Dream,2000,actor5,movie,1955,男,45
+克里斯托弗·沃尔兹,被解救的姜戈 Django Unchained,2012,actor3,movie,1956,男,56
+拉尔夫·费因斯,哈利·波特与死亡圣器(下) Harry Potter and the Deathly Hallows: Part 2,2011,actor5,movie,1962,男,49
+拉尔夫·费因斯,布达佩斯大饭店 The Grand Budapest Hotel,2014,actor1,movie,1962,男,52
+拉尔夫·费因斯,朗读者 The Reader,2008,actor3,movie,1962,男,46
+拉菲·斯波,少年派的奇幻漂流 Life of Pi,2012,actor3,movie,1983,男,29
+拉菲·斯波,一天 One Day,2011,actor5,movie,1983,男,28
+拉塞尔·皮特斯,源代码 Source Code,2011,actor5,movie,1970,男,41
+拉什·费加,记忆碎片 Memento,2000,actor5,movie,NA,男,NA
+莱丝莉·比伯,钢铁侠 Iron Man,2008,actor5,movie,1974,女,34
+朗·普尔曼,环太平洋 Pacific Rim,2013,actor5,movie,1950,男,63
+雷恩·威尔森,巨齿鲨 The Meg,2018,actor3,movie,1966,男,52
+李冰冰,巨齿鲨 The Meg,2018,actor2,movie,1973,女,45
+李淳,比利·林恩的中场战事 Billy Lynn's Long Halftime Walk,2016,actor5,movie,1990,男,26
+理查德·格雷弗斯,哈利·波特与密室 Harry Potter and the Chamber of Secrets,2002,actor5,movie,1947,男,55
+理查德·詹金斯,水形物语 The Shape of Water,2017,actor4,movie,1947,男,70
+丽贝卡·弗格森,碟中谍6：全面瓦解 Mission: Impossible - Fallout,2018,actor5,movie,1983,女,35
+丽娜·维特,头号玩家 Ready Player One,2018,actor5,movie,1984,女,34
+刘玉玲,超脱 Detachment,2011,actor5,movie,1968,女,43
+刘玉玲,杀死比尔 Kill Bill: Vol. 1,2003,actor2,movie,1968,女,35
+卢卡斯·赫奇斯,"三块广告牌 Three Billboards Outside Ebbing, Missouri",2017,actor5,movie,1996,男,21
+卢卡斯·赫奇斯,海边的曼彻斯特 Manchester by the Sea,2016,actor2,movie,1996,男,20
+卢克·布雷西,血战钢锯岭 Hacksaw Ridge,2016,actor5,movie,1989,男,27
+鲁比·罗丝,巨齿鲨 The Meg,2018,actor4,movie,1986,女,32
+罗宾·怀特,银翼杀手2049 Blade Runner 2049,2017,actor5,movie,1966,女,51
+罗丝玛丽·德薇特,爱乐之城 La La Land,2016,actor4,movie,1974,女,42
+马克·里朗斯,头号玩家 Ready Player One,2018,actor4,movie,1960,男,58
+马克·鲁弗洛,复仇者联盟3：无限战争 Avengers: Infinity War,2018,actor4,movie,1967,男,51
+马克·鲁弗洛,禁闭岛 Shutter Island,2010,actor2,movie,1967,男,43
+马克·鲁弗洛,复仇者联盟2：奥创纪元 Avengers: Age of Ultron,2015,actor3,movie,1967,男,48
+马克·鲁弗洛,惊天魔盗团 Now You See Me,2013,actor5,movie,1967,男,46
+马修·格雷·古柏勒,和莎莫的500天,2009,actor5,movie,1980,男,29
+马修·古迪,模仿游戏 The Imitation Game,2014,actor3,movie,1978,男,36
+马修·麦康纳,星际穿越 Interstellar,2014,actor1,movie,1969,男,45
+马修·麦康纳,达拉斯买家俱乐部 Dallas Buyers Club,2013,actor1,movie,1969,男,44
+玛吉·吉伦哈尔,蝙蝠侠：黑暗骑士 The Dark Knight,2008,actor5,movie,1977,女,31
+玛吉·史密斯,哈利·波特与魔法石 Harry Potter and the Sorcerer's Stone,2001,actor5,movie,1934,女,67
+玛丽昂·歌迪亚,蝙蝠侠：黑暗骑士崛起 The Dark Knight Rises,2012,actor5,movie,1975,女,37
+迈克尔·凯恩,蝙蝠侠：黑暗骑士 The Dark Knight,2008,actor4,movie,1933,男,75
+迈克尔·凯恩,星际穿越 Interstellar,2014,actor5,movie,1933,男,81
+迈克尔·凯恩,致命魔术 The Prestige,2006,actor3,movie,1933,男,73
+迈克尔·佩纳,蚁人2：黄蜂女现身 Ant-Man and the Wasp,2018,actor3,movie,1976,男,42
+迈克尔·佩纳,火星救援 The Martian,2015,actor5,movie,1976,男,39
+迈克尔·珊农,水形物语 The Shape of Water,2017,actor3,movie,1974,男,43
+麦斯·米科尔森,奇异博士 Doctor Strange,2016,actor3,movie,1965,男,51
+曼迪·摩尔,公主日记 The Princess Diaries,2001,actor5,movie,1984,女,17
+梅根·福克斯,变形金刚 Transformers,2007,actor5,movie,1986,女,21
+梅丽尔·斯特里普,穿普拉达的女王 The Devil Wears Prada,2006,actor2,movie,1949,女,57
+米娜·苏瓦丽,美国丽人 American Beauty,1999,actor5,movie,1979,女,20
+米特·洛夫,搏击俱乐部 Fight Club,1999,actor5,movie,1947,男,52
+米歇尔·罗德里格兹,阿凡达 Avatar,2009,actor5,movie,1978,女,31
+米歇尔·罗德里格兹,速度与激情8 The Fate of the Furious,2017,actor5,movie,1978,女,39
+米歇尔·罗德里格兹,速度与激情7 Furious 7,2015,actor4,movie,1978,女,37
+米歇尔·威廉姆斯,禁闭岛 Shutter Island,2010,actor5,movie,1980,女,30
+米歇尔·威廉姆斯,断背山 Brokeback Mountain,2005,actor3,movie,1980,女,25
+米歇尔·威廉姆斯,海边的曼彻斯特 Manchester by the Sea,2016,actor3,movie,1980,女,36
+妮基·瑞德,暮光之城 Twilight,2008,actor5,movie,1988,女,20
+尼尔·帕特里克·哈里斯,消失的爱人 Gone Girl,2014,actor3,movie,1973,男,41
+尼克·罗宾森,侏罗纪世界 Jurassic World,2015,actor5,movie,1995,男,20
+诺亚·泰勒,查理和巧克力工厂 Charlie and the Chocolate Factory,2005,actor5,movie,1969,男,36
+帕迪·康斯戴恩,谍影重重3 The Bourne Ultimatum,2007,actor5,movie,1974,男,33
+强·沃特,珍珠港 Pearl Harbor,2001,actor5,movie,1938,男,63
+乔丹娜·布鲁斯特,速度与激情7 Furious 7,2015,actor5,movie,1980,女,35
+乔什·布洛林,复仇者联盟3：无限战争 Avengers: Infinity War,2018,actor5,movie,1968,男,50
+乔什·哈洛威,碟中谍4 Mission: Impossible - Ghost Protocol,2011,actor5,movie,1969,男,42
+切瓦特·埃加福特,奇异博士 Doctor Strange,2016,actor4,movie,1977,男,39
+切瓦特·埃加福特,2012,2009,actor2,movie,1977,男,32
+裘德·洛,人工智能 Artificial Intelligence: AI,2001,actor5,movie,1972,男,29
+裘德·洛,布达佩斯大饭店 The Grand Budapest Hotel,2014,actor5,movie,1972,男,42
+瑞秋·麦克亚当斯,奇异博士 Doctor Strange,2016,actor5,movie,1978,女,38
+瑞秋·麦克亚当斯,恋恋笔记本 The Notebook,2004,actor2,movie,1978,女,26
+莎莉·理查德森,我是传奇 I Am Legend,2007,actor5,movie,1967,女,40
+山姆·洛克威尔,"三块广告牌 Three Billboards Outside Ebbing, Missouri",2017,actor3,movie,1968,男,49
+史蒂夫·卡瑞尔,阳光小美女 Little Miss Sunshine,2006,actor5,movie,1962,男,44
+斯戴芬·莫昌特,金刚狼3：殊死一战 Logan,2017,actor5,movie,1974,男,43
+斯嘉丽·约翰逊,他其实没那么喜欢你,2009,actor5,movie,1984,女,25
+斯嘉丽·约翰逊,复仇者联盟2：奥创纪元 Avengers: Age of Ultron,2015,actor5,movie,1984,女,31
+斯嘉丽·约翰逊,她 Her,2013,actor2,movie,1984,女,29
+斯嘉丽·约翰逊,致命魔术 The Prestige,2006,actor5,movie,1984,女,22
+斯嘉丽·约翰逊,复仇者联盟 The Avengers,2012,actor3,movie,1984,女,28
+斯塔尔勒塔·杜波利斯,恋恋笔记本 The Notebook,2004,actor5,movie,1941,女,63
+苏珊娜·洛塔尔,朗读者 The Reader,2008,actor5,movie,1960,女,48
+塔布,少年派的奇幻漂流 Life of Pi,2012,actor5,movie,1970,女,42
+泰·辛普金斯,侏罗纪世界 Jurassic World,2015,actor4,movie,2001,男,14
+泰勒·派瑞,消失的爱人 Gone Girl,2014,actor5,movie,1969,男,45
+泰伊·谢里丹,头号玩家 Ready Player One,2018,actor1,movie,1996,男,22
+坦迪·牛顿,当幸福来敲门 The Pursuit of Happyness,2006,actor3,movie,1972,女,34
+坦迪·牛顿,2012,2009,actor4,movie,1972,女,37
+唐尼·沃尔伯格,第六感 The Sixth Sense,1999,actor5,movie,1969,男,30
+威尔·保尔特,荒野猎人 The Revenant,2015,actor4,movie,1993,男,22
+威廉姆·李·斯科特,蝴蝶效应 The Butterfly Effect,2004,actor5,movie,1973,男,31
+薇诺娜·瑞德,黑天鹅 Black Swan,2010,actor5,movie,1971,女,39
+文·瑞姆斯,碟中谍6：全面瓦解 Mission: Impossible - Fallout,2018,actor3,movie,1959,男,59
+文森特·多诺费奥,侏罗纪世界 Jurassic World,2015,actor3,movie,1959,男,56
+文斯·沃恩,史密斯夫妇 Mr. & Mrs. Smith,2005,actor3,movie,1970,男,35
+文斯·沃恩,血战钢锯岭 Hacksaw Ridge,2016,actor3,movie,1970,男,46
+沃尔顿·戈金斯,蚁人2：黄蜂女现身 Ant-Man and the Wasp,2018,actor5,movie,1971,男,47
+伍迪·哈里森,惊天魔盗团 Now You See Me,2013,actor3,movie,1961,男,52
+伍迪·哈里森,"三块广告牌 Three Billboards Outside Ebbing, Missouri",2017,actor2,movie,1961,男,56
+西尔维娅·侯克斯,银翼杀手2049 Blade Runner 2049,2017,actor4,movie,1983,女,34
+西蒙·贝克,穿普拉达的女王 The Devil Wears Prada,2006,actor5,movie,1969,男,37
+西蒙·佩吉,碟中谍4 Mission: Impossible - Ghost Protocol,2011,actor3,movie,1970,男,41
+西蒙·佩吉,碟中谍6：全面瓦解 Mission: Impossible - Fallout,2018,actor4,movie,1970,男,48
+伊德里斯·艾尔巴,环太平洋 Pacific Rim,2013,actor3,movie,1972,男,41
+伊恩·麦克莱恩,X战警 X-Men,2000,actor3,movie,1939,男,61
+伊恩·麦克莱恩,指环王3：王者无敌 The Lord of the Rings: The Return of the King,2003,actor5,movie,1939,男,64
+伊恩·麦克莱恩,指环王2：双塔奇兵 The Lord of the Rings: The Two Towers,2002,actor3,movie,1939,男,63
+伊莱亚斯·科泰斯,本杰明·巴顿奇事 The Curious Case of Benjamin Button,2008,actor5,movie,1961,男,47
+伊桑·霍克,战争之王 Lord of War,2005,actor5,movie,1970,男,35
+伊桑·霍克,爱在日落黄昏时 Before Sunset,2004,actor1,movie,1970,男,34
+伊万杰琳·莉莉,蚁人2：黄蜂女现身 Ant-Man and the Wasp,2018,actor2,movie,1979,女,39
+雨果·维文,V字仇杀队 V for Vendetta,2005,actor2,movie,1960,男,45
+雨果·维文,黑客帝国 The Matrix,1999,actor4,movie,1960,男,39
+雨果·维文,血战钢锯岭 Hacksaw Ridge,2016,actor4,movie,1960,男,56
+约翰·传奇,爱乐之城 La La Land,2016,actor3,movie,1978,男,38
+约翰·赫特,V字仇杀队 V for Vendetta,2005,actor5,movie,1940,男,65
+约翰·马奥尼,怦然心动 Flipped,2010,actor5,movie,1940,男,70
+约瑟夫·梅泽罗,社交网络 The Social Network,2010,actor5,movie,1983,男,27
+詹姆斯·弗兰科,蜘蛛侠 Spider-Man,2002,actor4,movie,1978,男,24
+詹姆斯·凯伦,当幸福来敲门 The Pursuit of Happyness,2006,actor5,movie,1923,男,83
+詹姆斯·克伦威尔,绿里奇迹 The Green Mile,1999,actor5,movie,1940,男,59
+詹姆斯·麦斯登,X战警 X-Men,2000,actor5,movie,1973,男,27
+詹妮弗·安妮斯顿,他其实没那么喜欢你,2009,actor1,movie,1969,女,40
+赵文瑄,巨齿鲨 The Meg,2018,actor5,movie,1960,男,58
+朱丽娅·斯蒂尔斯,谍影重重3 The Bourne Ultimatum,2007,actor2,movie,1981,女,26
+朱丽娅·斯蒂尔斯,谍影重重 The Bourne Identity,2002,actor5,movie,1981,女,21
