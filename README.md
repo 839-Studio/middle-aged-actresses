@@ -47,3 +47,6 @@ info - 该演员豆瓣主页上的信息<br />
 BirthYear - 该演员的出生年份<br />
 gender - 该演员的性别
 age - 该演员2018年时的年龄
+
+5. 引用规范
+本文数据采用 [CC BY 4.0.]（https://creativecommons.org/licenses/by/4.0/）进行授权。引用是需标准来源为“澎湃新闻-美数课栏目”。
