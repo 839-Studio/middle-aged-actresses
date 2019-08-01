@@ -24,3 +24,26 @@ actor_link - 该剧所有演员的豆瓣链接<br />
 actor - 该剧的所有演员的名字
 
 ![actors and actresses in 2018's Chinese TV dramas by age](http://image.thepaper.cn/www/image/26/109/858.jpg)
+
+3. ["china.csv"](https://github.com/839-Studio/middle-aged-actresses/blob/master/china.csv), ["japan.csv"](https://github.com/839-Studio/middle-aged-actresses/blob/master/japan.csv), ["korea.csv"](https://github.com/839-Studio/middle-aged-actresses/blob/master/korea.csv)和["us.csv"](https://github.com/839-Studio/middle-aged-actresses/blob/master/us.csv)分别包含了中日美韩四国1999年到2018年间最受关注的电影/电视剧的主演信息。<br />
+筛选标准是豆瓣上该作品的标记数量。中国选取了这20年里每年最多标注了10部电影和10部电视剧，其他国家分别是5部电影和5部电视剧。
+
+actor - 演员姓名<br />
+name - 电影/电视剧名<br />
+year - 电影上映/电视剧首播年份<br />
+variable - 该演员在该电影/电视剧演员表中的顺序（"actor1"即为第一个）<br />
+type - drama是指电视剧，movie是指电影<br />
+BirthYear - 演员出生年份<br />
+gender - 演员性别<br />
+age - 该演员在电影上映/电视剧首播时的年龄
+
+![ages of actors and actresses in popular TV dramas](http://image.thepaper.cn/www/image/26/107/944.jpg)
+
+4. ["china_actor.csv"](https://github.com/839-Studio/middle-aged-actresses/blob/master/china_actor.csv)包含了964个中国演员的个人信息，在这个选题里主要用于匹配演员得出演员某作品上映时的年龄。
+
+actor - 演员名字<br />
+actor.link - 该演员的豆瓣链接<br />
+info - 该演员豆瓣主页上的信息<br />
+BirthYear - 该演员的出生年份<br />
+gender - 该演员的性别
+age - 该演员2018年时的年龄
