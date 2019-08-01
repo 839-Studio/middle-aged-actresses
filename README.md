@@ -48,6 +48,6 @@ gender - 该演员的性别
 age - 该演员2018年时的年龄
 
 5. 引用规范
-本文数据采用 [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/) 进行授权。引用是需标准来源为“澎湃新闻-美数课栏目”。
+本文数据采用 [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/) 进行授权。引用是需标准来源为[“澎湃新闻-美数课栏目”](https://www.thepaper.cn/list_25635)。
 
 如有问题，欢迎邮件联系liuchang(at)sixthtone.com.
