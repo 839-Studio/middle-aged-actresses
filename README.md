@@ -15,3 +15,12 @@ nomination - 该演员因该作品获得的主要提名（排除最终获奖的�
 source - 除去[豆瓣电影](https://movie.douban.com/)以外的来源<br />
 
 ![previous works of the four actresses](http://image.thepaper.cn/www/image/26/109/271.jpg)
+
+2. ["china_drama_2018.csv"](https://github.com/839-Studio/middle-aged-actresses/blob/master/china_drama_2018.csv)包含所有2018年首播的中国电视剧及演员信息。
+
+name - 电视剧名<br />
+link - 电视剧的豆瓣链接<br />
+actor_link - 该剧所有演员的豆瓣链接<br />
+actor - 该剧的所有演员的名字
+
+![actors and actresses in 2018's Chinese TV dramas by age](http://image.thepaper.cn/www/image/26/109/858.jpg)
